@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="opensans">
+    <file>opensans.ttf</file>
+  </qresource>
+  <qresource prefix="itim">
+    <file>Itim.ttf</file>
+  </qresource>
+</RCC>
